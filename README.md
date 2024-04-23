@@ -3,7 +3,7 @@
 상상을 현실로 만드는 개발자 **Wha1e**입니다.
 
  - 🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
- - 🏢  Huemonelab - FE/Programming Tutor (2020.06 ~ 2021.01)
+ - 🏢  Huemonelab - FE/Programming Tutor (2020.06 ~ 2021.01, 2023.07 ~ 2024.03)
  - 🏢  Hanbee - Co-Founder/Developer (2022.08 ~ )
 
 
