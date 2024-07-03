@@ -20,3 +20,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wherewhale&show_icons=true&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhale&langs_count=10&layout=compact&theme=prussian)
+
+
+![Palette](https://pa1ette.com)
+- 기획
+- Front-End
