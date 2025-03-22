@@ -3,7 +3,8 @@
 상상을 현실로 만드는 개발자 **Wha1e**입니다.
 
  - 🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
- - 🏢  Hanbee - Co-Founder/Developer (2022.08 ~ )
+ - 🏢  Hanbee - Co-Founder/Developer (2022.08 - 2024.12)
+ - 🏫 [KB IT's Your Life 6th] (2025.03 - current)
 
 
 💻 Tech
