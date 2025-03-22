@@ -21,7 +21,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherewhale&langs_count=10&layout=compact&theme=prussian)
 
-
-[Palette](https://pa1ette.com)
-- 기획
-- Front-End
