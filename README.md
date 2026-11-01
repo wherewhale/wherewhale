@@ -15,3 +15,9 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
  </p>
+
+**📖 Articles**
+------------
+<a href="https://velog.io/@wha1eson">
+  <img src="https://velog-dashboard.kro.kr/badge?username=wha1eson&type=default&assets=views,likes,posts"/>
+</a>
