@@ -18,6 +18,5 @@
 
 **📖 Articles**
 ------------
-<a href="https://velog.io/@wha1eson">
-  <img src="https://velog-dashboard.kro.kr/badge?username=wha1eson&type=default&assets=views,likes,posts"/>
-</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wha1eson)](https://velog.io/@wha1eson)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wha1eson)](https://velog.io/@wha1eson)
