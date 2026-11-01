@@ -18,5 +18,4 @@
 
 **📖 Articles**
 ------------
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wha1eson)](https://velog.io/@wha1eson)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wha1eson)](https://velog.io/@wha1eson)
+[![Velog's GitHub stats](https://velog-github-badge.vercel.app/badge/wha1eson?theme=dark)](https://velog.io/@wha1eson)
