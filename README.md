@@ -5,6 +5,7 @@
  - 🏫 Konkuk Univ. Industrial Engineerging & Smart ICT Convergence
  - 🏢  Hanbee - Co-Founder/Developer (2022.08 - 2024.12)
  - 🏫 [KB IT's Your Life 6th] (2025.03 - 2025.08)
+ - 🥕  Daangn - Software Engineer, Front-end (2026.11 - )
 
 
 💻 Tech
